@@ -34,16 +34,13 @@
 - Gestion et configuration des outils DevOps pour le déploiement continu
 </details>
 
-### Stage en Développement Web - ABC Company (2019)
-- Développement et maintenance d'un site web utilisant HTML, CSS et JavaScript
-- Mise en place de fonctionnalités interactives et responsives
 
 ## Éducation
 
 ```mermaid
 graph LR
-    A[Formation Technicien Supérieur Systèmes et Réseaux<br/>CEFIAC <br/> Saint-Denis<br/><span style="color: blue;">2019</span>] --> B(Licence en systèmes réseaux et cloud computing <br/> Ecole Supérieur de Génie Informatique <br/> Paris <br/><span style="color: blue;">2020</span>)
-    B --> C(Mastère en systèmes réseaux et cloud computing <br/> Ecole Supérieur de Génie Informatique <br/> Paris <br/><span style="color: blue;">2022</span>)
+    A[Formation Technicien Supérieur Systèmes et Réseaux<br/>CEFIAC <br/> Saint-Denis<br/>2019] --> B(Licence en systèmes réseaux et cloud computing <br/> Ecole Supérieur de Génie Informatique <br/> Paris <br/> 2020)
+    B --> C(Mastère en systèmes réseaux et cloud computing <br/> Ecole Supérieur de Génie Informatique <br/> Paris <br/> 2022)
 ```
 
 ## Compétences
