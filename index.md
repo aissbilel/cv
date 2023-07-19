@@ -2,7 +2,10 @@
 
 École ESGI
 
-<img src="/images/avatar.png" width=20% height=20%>
+
+<p align="center">
+<img src="/images/avatar.png" width=20% height=20%><br>
+</p>
 
 **Langues:** Français, Anglais
 
@@ -21,11 +24,11 @@
 
 ## Éducation
 
-### Mastère en Système Réseau et Cloud Computing - École supérieure de Génie Informatique (ESGI)
-- Diplôme obtenu en 2021
-
-### Licence en Informatique - École supérieure de Génie Informatique (ESGI)
-- Diplôme obtenu en 2019
+```mermaid
+graph LR
+    A[Formation Technicien Supérieur Systèmes et Réseaux<br/>CEFIAC <br/> Saint-Denis<br/><span style="color: blue;">2019</span>] --> B(Licence en systèmes réseaux et cloud computing <br/> Ecole Supérieur de Génie Informatique <br/> Paris <br/><span style="color: blue;">2020</span>)
+    B --> C(Mastère en systèmes réseaux et cloud computing <br/> Ecole Supérieur de Génie Informatique <br/> Paris <br/><span style="color: blue;">2022</span>)
+```
 
 ## Compétences
 
