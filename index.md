@@ -1,7 +1,7 @@
 # AISSAOUI Bilel
 
 <p align="center">
-<img src="./images/avatar.png" width=20% height=20%><br>
+![Avatar](images/avatar.png){width=20% height=20%}
 </p>
 
 **Passions:** Photographie, Bricolage
