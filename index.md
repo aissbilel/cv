@@ -1,40 +1,50 @@
-Johnny Coder
-============
+# AISSAOUI Bilel
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+École ESGI
 
-Education
----------
+![Profile Picture](https://example.com/profile_picture.jpg)
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+**Langues:** Français, Anglais
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+**Passions:** Photographie, Bricolage
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+## Expérience
 
-    *Minor: Awesomeology*
+### Devops Engineer - Thales (2020 - Présent)
+- Gestion et configuration des outils DevOps pour le déploiement continu
+- Automatisation des processus de développement, de test et de déploiement
+- Collaboration étroite avec les équipes de développement et d'exploitation
 
-Experience
-----------
+### Stage en Développement Web - ABC Company (2019)
+- Développement et maintenance d'un site web utilisant HTML, CSS et JavaScript
+- Mise en place de fonctionnalités interactives et responsives
 
-**Your Most Recent Work Experience:**
+## Éducation
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+### Mastère en Système Réseau et Cloud Computing - École supérieure de Génie Informatique (ESGI)
+- Diplôme obtenu en 2021
 
-* First item
+### Licence en Informatique - École supérieure de Génie Informatique (ESGI)
+- Diplôme obtenu en 2019
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+## Compétences
+
+- Outils de déploiement : Docker, Kubernetes
+- Systèmes d'exploitation : Linux, Windows
+- Langages de programmation : Python, Bash, JavaScript
+- Outils de gestion de versions : Git, SVN
+
+## Projets personnels
+
+### Portfolio de Photographie (2018 - Présent)
+- Création et maintenance d'un site web pour présenter ma collection de photographies
+- Utilisation de HTML, CSS et JavaScript pour le développement du site
+
+## Contact
+
+- Email: aissaoui.bilel@example.com
+- Téléphone: +1234567890
+- Site web: [www.example.com](https://www.example.com)
 
 **That Other Job You Had**
 
