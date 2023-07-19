@@ -2,7 +2,7 @@
 
 École ESGI
 
-![Profile Picture](/images/avatar.png)
+!(/images/avatar.png)
 
 **Langues:** Français, Anglais
 
