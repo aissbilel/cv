@@ -2,7 +2,7 @@
 
 École ESGI
 
-![a](/images/avatar.png)
+<img src="/images/avatar.png" width=20% height=20%>
 
 **Langues:** Français, Anglais
 
