@@ -1,22 +1,38 @@
 # AISSAOUI Bilel
 
-École ESGI
-
-
 <p align="center">
-<img src="/images/avatar.png" width=20% height=20%><br>
+<img src="./images/avatar.png" width=20% height=20%><br>
 </p>
-
-**Langues:** Français, Anglais
 
 **Passions:** Photographie, Bricolage
 
 ## Expérience
 
-### Devops Engineer - Thales (2020 - Présent)
+<details>
+  <summary>DevOps Engineer - Thales (2020 - Présent)</summary>
+
 - Gestion et configuration des outils DevOps pour le déploiement continu
 - Automatisation des processus de développement, de test et de déploiement
 - Collaboration étroite avec les équipes de développement et d'exploitation
+</details>
+
+<details>
+  <summary>AAREON</summary>
+
+- Gestion et configuration des outils DevOps pour le déploiement continu
+</details>
+
+<details>
+  <summary>HEETCH</summary>
+
+- Gestion et configuration des outils DevOps pour le déploiement continu
+</details>
+
+<details>
+  <summary>CCMP</summary>
+
+- Gestion et configuration des outils DevOps pour le déploiement continu
+</details>
 
 ### Stage en Développement Web - ABC Company (2019)
 - Développement et maintenance d'un site web utilisant HTML, CSS et JavaScript
